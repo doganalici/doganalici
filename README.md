@@ -13,8 +13,6 @@
 ![.NET](https://img.shields.io/badge/.NET-ff3a1c?style=flat&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-![[Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)]
-
 
 **Code Cycle**<br>
 

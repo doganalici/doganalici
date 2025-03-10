@@ -9,6 +9,8 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=flat&logo=c&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 

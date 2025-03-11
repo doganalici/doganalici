@@ -1,5 +1,9 @@
 <div align="center" width="50">
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+DOGAN+ALICI....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/doganalici" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/doganalici" alt="Workspace"  width="40%"/><br> 
 
